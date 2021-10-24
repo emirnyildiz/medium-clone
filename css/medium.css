@@ -1,0 +1,19 @@
+.bg-navbar {
+    background-color: #C4E2FF; 
+    
+}
+    
+.bg-bottom-dark {    
+    border-bottom: 1px solid rgba(41, 41, 41);
+}
+
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.cv {
+    background-image: url(https://miro.medium.com/max/350/4*BIK9VGjeCj2TaTDw4id2nA.png);
+    background-repeat: no-repeat;
+    
+    
+}
